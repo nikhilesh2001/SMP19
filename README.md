@@ -10,7 +10,7 @@ ISTE Summer Mentorship Programme 2019 Projects
 
      git clone https://github.com/your-username/SMP19.git
 
-**3) CHange directories and then change into the directory for your respective SMP**
+**3) Change directories and then change into the directory for your respective SMP**
 
      cd SMP19
      cd <SMP Name>
